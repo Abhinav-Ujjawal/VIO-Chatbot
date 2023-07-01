@@ -48,7 +48,8 @@ os.system('cls')
 print("""
          Welcome to the ChatBot 
          This chatbot attempts to answer your queries using voice input and output 
-         Hope you have an enjoyable experience.\n""")
+         Hope you have an enjoyable experience.\n
+      """)
 
 # r=generate_response('Answer anything that is asked')
 # wrapped_text = textwrap.wrap(r, width=150)
